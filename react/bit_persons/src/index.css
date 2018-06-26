@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+img{
+  padding: 8px;
+}
+
+.material-icons{
+  position: relative;
+  top: 5px;
+}
+
+.redBackGround{
+  border:1px solid red;
+}
